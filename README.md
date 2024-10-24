@@ -1,5 +1,5 @@
 # FullStackDashboard
-## OfLaptopParadise
+## LaptopParadise
 
 _Change .env file_ 
 **.ENV**
