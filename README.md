@@ -7,8 +7,9 @@ Change .env file
 ***Use Stack***
 ## Frontend
 **React**, **Bootstrap**, **Html**, **CSS**
-![Logo](https://cdn.worldvectorlogo.com/logos/react-1.svg"React")
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"Bootstrap")
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"React")
+
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"Bootstrap")
 
 ## Backend
  **Node.js**,**Express.js**
