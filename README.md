@@ -1,7 +1,7 @@
-#FullStackDashboard
-##OfLaptopParadise
+# FullStackDashboard
+## OfLaptopParadise
 
-Change .env file 
+_Change .env file_ 
 **.ENV**
 
 ***Use Stack***
