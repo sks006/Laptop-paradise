@@ -8,8 +8,8 @@ Change .env file
 ## Frontend
 |**React**| **Bootstrap**| **Html**| **CSS**|
 |---------|--------------|---------|---------|
-![Logo](https://www.w3schools.com/react/screenshot_myfirstreact.png"React")
-![Logo](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"Bootstrap")
+|![Logo](https://www.w3schools.com/react/screenshot_myfirstreact.png"React")|![Logo](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"Bootstrap")|
+
 
 ## Backend
 |**Node.js**|**Express.js**|
