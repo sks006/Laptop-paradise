@@ -1,0 +1,120 @@
+[
+    {
+        "header": "",
+        "items": [
+            {
+                "text": "Dashboard",
+                "icon": "bx bx-home",
+                "available": true,
+                "link": "/"
+            },
+            {
+                "text": "Categories",
+                "icon": "bx bx-hive",
+                "available": true,
+                "link": "/categories"
+            },
+            {
+                "text": "Brands",
+                "icon": "bx bx-cylinder",
+                "available": true,
+                "link": "/brands"
+            },
+            {
+                "text": "Supplier",
+                "icon": "bx bxs-user-check",
+                "available": true,
+                "link": "/supplier"
+            },
+         
+            {
+                "text": "Bills",
+                "icon": "bx bx-dollar",
+                "available": true,
+                "link": "/bills"
+            } ,
+            
+            {
+                "text": "Customers",
+                "icon": "bx bxs-user-rectangle",
+                "available": true,
+                "link": "/customers"
+                
+            }
+            
+            
+        ]
+    },
+   { "header": "Sells product",
+    "items": [
+        {
+            "text": "Sells List",
+            "icon": "bx bx-cart-add",
+            "available": true,
+            "link": "/sells"      
+            
+        },
+        {
+            "text": "Sells Items",
+            "icon": "bx bxs-briefcase-alt-2",
+            "available": true,
+            "link": "/sellsItems"
+        }
+
+    ]},
+    {
+        "header": "Products & Stock",
+        "items": [
+            
+            
+            {
+                "text": "Products",
+                "icon": "bx bx-dock-top",
+                "available": true,
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Add Product",
+                        "available": true,
+                        "link": "/createProduct"
+                    },
+                    {
+                        "text": "Product List",
+                        "available": true,
+                        "link": "/products"
+                        
+                    },
+                    {
+                        "text": "Processing",
+                        "icon": "bx bxs-square",
+                        "available": true,
+                        "link": "/processing"
+                    },
+                    {
+                        "text": "Ordinary",
+                        "icon": "bx bx-headphone",
+                        "available": true,
+                        "link": "/ordinary"
+                    }
+                   
+                    
+        
+                ]
+            }
+        ]
+    },
+    
+
+    {
+        "header": "MISC",
+        "items": [
+            {
+                "text": "Mystrix IT Support",
+                "icon": "bx bx-support",
+                "available": true,
+                "link": "https://mystrix.site/"
+            }
+
+        ]
+    }
+]

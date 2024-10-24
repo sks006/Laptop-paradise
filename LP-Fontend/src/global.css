@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.global-logo{
+    width: 100%;
+    background-color: black;
+    padding: 10px 20px;
+    
+    border-radius: 5px;
+}
+
+.active_cs .menu-link{
+    background-color: rgb(246, 232, 235);
+    color: crimson;
+}
+.active_cs .menu-link i{
+    color: crimson;
+}
+.active_cs .menu-link div{
+    color: crimson;
+}
+
